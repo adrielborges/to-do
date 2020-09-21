@@ -1,3 +1,12 @@
+#React Typescript To-do List
+
+##Functions
+
+Add a Task
+Check and Uncheck a Task
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
