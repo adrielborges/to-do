@@ -2,11 +2,11 @@
 
 ## Functions
 
-Add a Task
+* Add a Task
 
-Check and Uncheck a Task
+* Check and Uncheck a Task
 
-### 
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
