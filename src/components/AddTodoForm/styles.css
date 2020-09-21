@@ -1,0 +1,21 @@
+.formContent{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.formContent input{
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.formContent button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  margin: 15px auto 0 auto;
+  width: 160px;
+  height: 30px;
+
+}
