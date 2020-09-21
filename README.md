@@ -1,6 +1,6 @@
-#React Typescript To-do List
+# React Typescript To-do List
 
-##Functions
+## Functions
 
 Add a Task
 Check and Uncheck a Task
