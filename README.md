@@ -3,6 +3,7 @@
 ## Functions
 
 Add a Task
+
 Check and Uncheck a Task
 
 
